@@ -1,0 +1,11 @@
+{
+  "name": "web-development-demo",
+  "version": "1.0.0",
+  "description": "Demo for 11/16/19",
+  "main": "server.js",
+  "author": "Peter Wildberger",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
